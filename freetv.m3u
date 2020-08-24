@@ -14,7 +14,7 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 #EXTINF:-1 group-title="Syria",Lana Tv HD
 https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
 #EXTINF:-1 group-title="Syria",Lana Tv 
-http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
+https://mysat-live.ercdn.net/lanatv/lanatv.m3u8
 #EXTINF:-1 group-title="Syria",Lana plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
 #EXTINF:-1 group-title="Syria",Sama Tv
