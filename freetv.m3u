@@ -77,14 +77,22 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1 group-title="Mbc",Mbc Iraq
 http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:-1 group-title="Sport",Dubai Sport 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sport",Dubai Sport 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sport",Dubai Sport 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Sport",AD sport 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sport",AD sport 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sport",AD sport 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sport",AD sport 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sport",Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd_1080p.m3u8
 #EXTINF:-1 group-title="Sport",Ksa Sport 1 
 http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
 #EXTINF:-1 group-title="Sport",Ksa Sport 2 
