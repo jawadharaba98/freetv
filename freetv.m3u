@@ -12,7 +12,7 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Syria",Syria
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 #EXTINF:-1 group-title="Syria",Lana Tv 
-https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
+http://89.187.169.206:2200/TN/lana-ar/tracks-v1a1/2021/01/08/14/27/25-06400.ts?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 group-title="Syria",Sama Tv
 http://95.217.133.45:8080/hls/samatv.m3u8
 #EXTINF:-1 group-title="Syria",Syria Drama
