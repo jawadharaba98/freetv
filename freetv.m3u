@@ -105,6 +105,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 group-title="Sport",Al Kass 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="Sport",Ziggo Sports Select
+http://192.168.0.102:8001/1:0:19:51E0:C96:3:EB0000:0:0:0:
 #EXTINF:-1 group-title="Belgium",Eén
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Belgium",Canvas
