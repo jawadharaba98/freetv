@@ -1,51 +1,77 @@
-#EXTM3U
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="5157" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:1425:5DC:13E:820000:0:0:0:" tvg-name="Eleven Sports 1 HD",Eleven Sports 1 HD
-http://192.168.0.102:8001/1:0:1:1425:5DC:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="5159" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:1427:5DC:13E:820000:0:0:0:" tvg-name="Eleven Sports 2 HD",Eleven Sports 2 HD
-http://192.168.0.102:8001/1:0:1:1427:5DC:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="5182" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:143E:5DC:13E:820000:0:0:0:" tvg-name="Eleven Sports 3 HD",Eleven Sports 3 HD
-http://192.168.0.102:8001/1:0:1:143E:5DC:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="13006" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:32CE:190:13E:820000:0:0:0:" tvg-name="ELEVEN SPORTS 4 HD",ELEVEN SPORTS 4 HD
-http://192.168.0.102:8001/1:0:1:32CE:190:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="5101" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:13ED:5DC:13E:820000:0:0:0:" tvg-name="CANAL+1 HD",CANAL+1 HD
-http://192.168.0.102:8001/1:0:1:13ED:5DC:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="13022" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:32DE:190:13E:820000:0:0:0:" tvg-name="CANAL+ SPORT HD",CANAL+ SPORT HD
-http://192.168.0.102:8001/1:0:1:32DE:190:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="5152" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:1420:5DC:13E:820000:0:0:0:" tvg-name="CANAL+ SPORT 2 HD",CANAL+ SPORT 2 HD
-http://192.168.0.102:8001/1:0:1:1420:5DC:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="1801" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:709:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium 1",Polsat Sport Premium 1
-http://192.168.0.102:8001/1:0:1:709:32C8:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="1802" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70A:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium 2",Polsat Sport Premium 2
-http://192.168.0.102:8001/1:0:1:70A:32C8:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="1803" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70B:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV3",Polsat Sport Premium PPV3
-http://192.168.0.102:8001/1:0:1:70B:32C8:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="1804" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70C:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV4",Polsat Sport Premium PPV4
-http://192.168.0.102:8001/1:0:1:70C:32C8:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="1805" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70D:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV5",Polsat Sport Premium PPV5
-http://192.168.0.102:8001/1:0:1:70D:32C8:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="1806" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70E:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV6",Polsat Sport Premium PPV6
-http://192.168.0.102:8001/1:0:1:70E:32C8:13E:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="10515" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:2913:1EDC:71:820000:0:0:0:" tvg-name="Polsat Sport News HD",Polsat Sport News HD
-http://192.168.0.102:8001/1:0:1:2913:1EDC:71:820000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="20960" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:51E0:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Select HD",Ziggo Sport Select HD
+#EXTM3U 
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20960" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:51E0:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Select HD",Ziggo Sport Select HD
 http://192.168.0.102:8001/1:0:19:51E0:C96:3:EB0000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="20925" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:16:51BD:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Voetbal",Ziggo Sport Voetbal
+#EXTINF:-1 group-title="DreamBox" tvg-chno="6090" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:17CA:C82:3:EB0000:0:0:0:" tvg-name="SBS6 HD",SBS6 HD
+http://192.168.0.102:8001/1:0:19:17CA:C82:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20925" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:16:51BD:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Voetbal",Ziggo Sport Voetbal
 http://192.168.0.102:8001/1:0:16:51BD:C96:3:EB0000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="20930" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:16:51C2:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Golf",Ziggo Sport Golf
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20930" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:16:51C2:C96:3:EB0000:0:0:0:" tvg-name="Ziggo Sport Golf",Ziggo Sport Golf
 http://192.168.0.102:8001/1:0:16:51C2:C96:3:EB0000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="6092" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:17CC:C82:3:EB0000:0:0:0:" tvg-name="ESPN HD",ESPN HD
+#EXTINF:-1 group-title="DreamBox" tvg-chno="6092" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:17CC:C82:3:EB0000:0:0:0:" tvg-name="ESPN HD",ESPN HD
 http://192.168.0.102:8001/1:0:19:17CC:C82:3:EB0000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="7164" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:1BFC:C88:3:EB0000:0:0:0:" tvg-name="ESPN 2 HD",ESPN 2 HD
+#EXTINF:-1 group-title="DreamBox" tvg-chno="7164" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:1BFC:C88:3:EB0000:0:0:0:" tvg-name="ESPN 2 HD",ESPN 2 HD
 http://192.168.0.102:8001/1:0:19:1BFC:C88:3:EB0000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="6068" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:17B4:C82:3:EB0000:0:0:0:" tvg-name="ESPN 4 HD",ESPN 4 HD
+#EXTINF:-1 group-title="DreamBox" tvg-chno="6068" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:17B4:C82:3:EB0000:0:0:0:" tvg-name="ESPN 4 HD",ESPN 4 HD
 http://192.168.0.102:8001/1:0:19:17B4:C82:3:EB0000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="30606" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:778E:424:1:C00000:0:0:0:" tvg-name="#VAMOS BAR",#VAMOS BAR
-http://192.168.0.102:8001/1:0:1:778E:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="29962" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:750A:420:1:C00000:0:0:0:" tvg-name="#VAMOSHD",#VAMOSHD
-http://192.168.0.102:8001/1:0:19:750A:420:1:C00000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="30611" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:7793:424:1:C00000:0:0:0:" tvg-name="LALIGATV BAR",LALIGATV BAR
-http://192.168.0.102:8001/1:0:1:7793:424:1:C00000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="30405" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:76C5:40E:1:C00000:0:0:0:" tvg-name="LALIGATVBAR1",LALIGATVBAR1
-http://192.168.0.102:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
-#EXTINF:-1 group-title="DreamBox Sport" tvg-chno="122" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:7A:10:85:C00000:0:0:0:" tvg-name="DAZN 2 Bar HD",DAZN 2 Bar HD
-http://192.168.0.102:8001/1:0:19:7A:10:85:C00000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20020" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:4E34:C85:3:EB0000:0:0:0:" tvg-name="Arena Sport 1 HD",Arena Sport 1 HD
+http://192.168.0.102:8001/1:0:19:4E34:C85:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20021" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:4E35:C85:3:EB0000:0:0:0:" tvg-name="Arena Sport 2 HD",Arena Sport 2 HD
+http://192.168.0.102:8001/1:0:19:4E35:C85:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20022" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:4E36:C85:3:EB0000:0:0:0:" tvg-name="Arena Sport 3 HD",Arena Sport 3 HD
+http://192.168.0.102:8001/1:0:19:4E36:C85:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20023" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:4E37:C85:3:EB0000:0:0:0:" tvg-name="Arena Sport 4 HD",Arena Sport 4 HD
+http://192.168.0.102:8001/1:0:19:4E37:C85:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20024" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:4E38:C85:3:EB0000:0:0:0:" tvg-name="Arena Sport 5 HD",Arena Sport 5 HD
+http://192.168.0.102:8001/1:0:19:4E38:C85:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20026" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:4E3A:C85:3:EB0000:0:0:0:" tvg-name="Eurosport 1 HD",Eurosport 1 HD
+http://192.168.0.102:8001/1:0:19:4E3A:C85:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="20027" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:4E3B:C85:3:EB0000:0:0:0:" tvg-name="Eurosport 2 HD",Eurosport 2 HD
+http://192.168.0.102:8001/1:0:19:4E3B:C85:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="13203" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:3393:C89:3:EB0000:0:0:0:" tvg-name="Nova Sport 1 HD",Nova Sport 1 HD
+http://192.168.0.102:8001/1:0:19:3393:C89:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="14110" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:19:371E:C8E:3:EB0000:0:0:0:" tvg-name="Nova Sport 2 HD",Nova Sport 2 HD
+http://192.168.0.102:8001/1:0:19:371E:C8E:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="21228" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:16:52EC:C96:3:EB0000:0:0:0:" tvg-name="Eleven Sports Pro League 1 NL",Eleven Sports Pro League 1 NL
+http://192.168.0.102:8001/1:0:16:52EC:C96:3:EB0000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="13006" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:32CE:190:13E:820000:0:0:0:" tvg-name="ELEVEN SPORTS 4 HD",ELEVEN SPORTS 4 HD
+http://192.168.0.102:8001/1:0:1:32CE:190:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="5157" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:1425:5DC:13E:820000:0:0:0:" tvg-name="Eleven Sports 1 HD",Eleven Sports 1 HD
+http://192.168.0.102:8001/1:0:1:1425:5DC:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="5159" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:1427:5DC:13E:820000:0:0:0:" tvg-name="Eleven Sports 2 HD",Eleven Sports 2 HD
+http://192.168.0.102:8001/1:0:1:1427:5DC:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="5182" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:143E:5DC:13E:820000:0:0:0:" tvg-name="Eleven Sports 3 HD",Eleven Sports 3 HD
+http://192.168.0.102:8001/1:0:1:143E:5DC:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="13022" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:32DE:190:13E:820000:0:0:0:" tvg-name="CANAL+ SPORT HD",CANAL+ SPORT HD
+http://192.168.0.102:8001/1:0:1:32DE:190:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="5152" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:1420:5DC:13E:820000:0:0:0:" tvg-name="CANAL+ SPORT 2 HD",CANAL+ SPORT 2 HD
+http://192.168.0.102:8001/1:0:1:1420:5DC:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="4882" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:1312:2E7C:13E:820000:0:0:0:" tvg-name="CANAL+ SPORT 3 HD",CANAL+ SPORT 3 HD
+http://192.168.0.102:8001/1:0:1:1312:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="4883" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:1313:2E7C:13E:820000:0:0:0:" tvg-name="CANAL+ SPORT 4 HD",CANAL+ SPORT 4 HD
+http://192.168.0.102:8001/1:0:1:1313:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="1801" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:709:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium 1",Polsat Sport Premium 1
+http://192.168.0.102:8001/1:0:1:709:32C8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="1802" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70A:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium 2",Polsat Sport Premium 2
+http://192.168.0.102:8001/1:0:1:70A:32C8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="1803" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70B:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV3",Polsat Sport Premium PPV3
+http://192.168.0.102:8001/1:0:1:70B:32C8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="1804" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70C:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV4",Polsat Sport Premium PPV4
+http://192.168.0.102:8001/1:0:1:70C:32C8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="1805" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70D:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV5",Polsat Sport Premium PPV5
+http://192.168.0.102:8001/1:0:1:70D:32C8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="1806" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:70E:32C8:13E:820000:0:0:0:" tvg-name="Polsat Sport Premium PPV6",Polsat Sport Premium PPV6
+http://192.168.0.102:8001/1:0:1:70E:32C8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="3101" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:C1D:1E78:71:820000:0:0:0:" tvg-name="Polsat Sport HD",Polsat Sport HD
+http://192.168.0.102:8001/1:0:1:C1D:1E78:71:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="3108" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:C24:1E78:71:820000:0:0:0:" tvg-name="Polsat Sport Extra HD",Polsat Sport Extra HD
+http://192.168.0.102:8001/1:0:1:C24:1E78:71:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="10513" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:2911:1EDC:71:820000:0:0:0:" tvg-name="Polsat Sport Fight HD",Polsat Sport Fight HD
+http://192.168.0.102:8001/1:0:1:2911:1EDC:71:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="10515" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:2913:1EDC:71:820000:0:0:0:" tvg-name="Polsat Sport News HD",Polsat Sport News HD
+http://192.168.0.102:8001/1:0:1:2913:1EDC:71:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="3505" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:DB1:2D50:13E:820000:0:0:0:" tvg-name="TVP Sport HD",TVP Sport HD
+http://192.168.0.102:8001/1:0:1:DB1:2D50:13E:820000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="29856" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:74A0:41C:1:C00000:0:0:0:" tvg-name="BARÇA TV",BARÇA TV
+http://192.168.0.102:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
+#EXTINF:-1 group-title="DreamBox" tvg-chno="30616" tvg-logo="http://192.168.0.102/images/default_picon.png" tvg-id="1:0:1:7798:424:1:C00000:0:0:0:" tvg-name="R. MADRID TV",R. MADRID TV
+http://192.168.0.102:8001/1:0:1:7798:424:1:C00000:0:0:0:
